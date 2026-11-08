@@ -1,4 +1,4 @@
-# 🚇 Tren İstasyonu
+#  Tren İstasyonu
 
 Blender ile modellediğim, yeraltı tren/metro istasyonu temalı 3D sahne projesi.
 
@@ -7,7 +7,7 @@ Blender ile modellediğim, yeraltı tren/metro istasyonu temalı 3D sahne projes
   <img src="images/istasyon-2.png" alt="Tren İstasyonu - Görünüm 2" width="48%">
 </p>
 
-## 📖 Hakkında
+##  Hakkında
 
 Bu proje, tünel çıkışı olan bir tren istasyonu peronunu içeren bir Blender sahnesidir. Sahnede şunlar yer alıyor:
 
@@ -18,7 +18,7 @@ Bu proje, tünel çıkışı olan bir tren istasyonu peronunu içeren bir Blende
 
 Proje; modelleme, malzeme/doku kaplama, aydınlatma ve render süreçlerini pratik etmek amacıyla hazırlandı.
 
-## 🖼️ Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 | Görünüm 1 | Görünüm 2 |
 |:---:|:---:|
@@ -28,11 +28,11 @@ Proje; modelleme, malzeme/doku kaplama, aydınlatma ve render süreçlerini prat
 
 - [Blender](https://www.blender.org/download/) **5.2** veya üzeri
 
-## 📁 Klasör Yapısı
+##  Klasör Yapısı
 
 ```
 underground_train_station/
-├── assets/            # Projede kullanılan ek dosyalar
+├── assets/            
 ├── images/            # Render çıktıları / ekran görüntüleri
 │   ├── istasyon-1.png
 │   └── istasyon-2.png
@@ -41,12 +41,12 @@ underground_train_station/
 └── README.md
 ```
 
-## 👤 Geliştirici
+##  Geliştirici
 
 **Burak Yiğit**
 GitHub: [@burakyigitsolmaz](https://github.com/burakyigitsolmaz)
 
-## 📄 Telif Hakkı
+##  Telif Hakkı
 
 © 2026 Burak Yiğit. **Tüm hakları saklıdır.**
 
