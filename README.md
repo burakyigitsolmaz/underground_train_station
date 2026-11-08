@@ -18,12 +18,6 @@ Bu proje, tünel çıkışı olan bir tren istasyonu peronunu içeren bir Blende
 
 Proje; modelleme, malzeme/doku kaplama, aydınlatma ve render süreçlerini pratik etmek amacıyla hazırlandı.
 
-##  Ekran Görüntüleri
-
-| Görünüm 1 | Görünüm 2 |
-|:---:|:---:|
-| ![Görünüm 1](images/istasyon-1.png) | ![Görünüm 2](images/istasyon-2.png) |
-
 ## 🛠️ Gereksinimler
 
 - [Blender](https://www.blender.org/download/) **5.2** veya üzeri
